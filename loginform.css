@@ -1,0 +1,84 @@
+*{
+    border: 0px;
+    margin: 0px;
+
+}
+body{
+    background:linear-gradient( to right, rgb(222, 143, 193),rgb(236, 73, 198));
+}
+
+.login{
+    transform: translateX(500px) translateY(150px);
+    background-color: rgb(249, 243, 243);
+    width: 25%;
+    padding: 47px;
+}
+.title{
+   
+   text-align: center;
+   margin: 10px 20px;
+   font-size: 23px;
+
+}
+  
+
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 86%;
+    font-size: 20px;
+   
+ 
+}
+input:hover{
+  color: grey;
+  ;
+
+}
+
+#btn1{
+    padding: 15px;
+    background:linear-gradient(to right, rgb(238, 150, 206),rgb(232, 63, 192));
+    color: aliceblue;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 45%;
+    border: none;
+    font-size: 20px;
+}
+
+
+#btn2{
+    padding: 15px;
+    background-color: white;
+    border: lightgray solid 1px ;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 45%;
+    font-size: 20px;
+
+}
+a{
+    color: rgb(227, 103, 124);
+    text-decoration: none;
+    font-size: 20px;
+}
+#btn3{
+    padding: 15px 15px ;
+    background:linear-gradient(to right, rgb(238, 152, 207),rgb(221, 53, 181));
+    margin-top: 5px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 93%;
+    border: none;
+    font-size: 20px;
+}
+
+.Signup{
+   font-size: 20px;
+   margin-right: 6px;
+   margin-bottom: 10px;
+
+}
